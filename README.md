@@ -49,5 +49,5 @@ The program prints:
 ## Authors
 
 - [Hamisi Soipan](https://github.com/soipanhamisi)
-- [Alex Raza](github.com/lizardcat)
+- [Alex Raza](https://github.com/lizardcat)
 - [Wabocha Kariuki](#)
