@@ -50,4 +50,4 @@ The program prints:
 
 - [Hamisi Soipan](https://github.com/soipanhamisi)
 - [Alex Raza](https://github.com/lizardcat)
-- [Wabocha Kariuki](#)
+- [Wabocha Kariuki](https://github.com/Kariuki19)
